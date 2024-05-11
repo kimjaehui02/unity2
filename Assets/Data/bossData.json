@@ -1,0 +1,17 @@
+{
+    "bossMaxHp": [
+        300
+    ],
+    "bossMaxSouls": [
+        5
+    ],
+    "bossRemainSouls": [
+        5
+    ],
+    "bossKrName": [
+        "큐브릭스"
+    ],
+    "bossEngName": [
+        "Cuberix"
+    ]
+}

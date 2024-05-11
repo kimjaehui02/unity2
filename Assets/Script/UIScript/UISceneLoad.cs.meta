@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d268161bba899a4a8b505f4ffd8b937
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MainMenu: {fileID: 102900000, guid: d8087457492129b4297b3fbc86b91d5e, type: 3}
+  - SafeZone: {fileID: 102900000, guid: 8a55d3b2d340a154da36e6f3e3f76489, type: 3}
+  - Boss: {fileID: 102900000, guid: 8d379c968150d8b438222e43401aaec0, type: 3}
+  - UITemplete: {fileID: 102900000, guid: 528138d9d963d9a499cae89d9b925357, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

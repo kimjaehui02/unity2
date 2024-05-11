@@ -1,0 +1,8 @@
+{
+    "playerMaxHp": 100,
+    "playerMaxStamina": 300,
+    "playerMaxSpearAmount": 4,
+    "currentSceneIndex": 0,
+    "playerSouls": 23,
+    "itemsIndex": []
+}

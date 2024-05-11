@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boss
+  - ParriedAttack
+  - NormalAtk
+  - Wall
+  - BossBody
+  - SoulShop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BossAtk
+  - BossBody
+  - PlayerAtk
+  - PlayerBody
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 4259655909
+    locked: 0
+  - name: WallPuls
+    uniqueID: 2170830883
+    locked: 0
+  - name: Wall
+    uniqueID: 3181837027
+    locked: 0
+  - name: Portal
+    uniqueID: 4233695859
+    locked: 0
+  - name: BossAtkUI
+    uniqueID: 136589959
+    locked: 0
+  - name: Player
+    uniqueID: 2195636619
+    locked: 0
+  - name: Props
+    uniqueID: 1078003919
+    locked: 0
+  - name: Boss
+    uniqueID: 666642297
+    locked: 0

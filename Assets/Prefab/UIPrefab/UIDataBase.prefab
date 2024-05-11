@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5879651061365593616
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6855953683692459555}
+  - component: {fileID: 6816045607473317967}
+  m_Layer: 5
+  m_Name: UIDataBase
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &6855953683692459555
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5879651061365593616}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &6816045607473317967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5879651061365593616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01dc7d7adc320324dbb6750b290b3ac8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ScreenSize: 0
+  AudioVolume: 0
+  PlayerMaxHp: 0
+  PlayerCurrentHp: 0
+  PlayerShield: 0
+  PlayerMaxStamina: 1
+  PlayerCurrentStamina: 1
+  PlayerMaxSpearAmount: 1
+  PlayerCurrentSpearAmount: 0
+  PlayerEquipSpearSerialNum: 1
+  PlayerObtainSouls: 1
+  isGameOver: 0
+  BossName_Eng: ENd
+  BossName_Kr: dfd
+  BossMaxHp: 0
+  BossCurrentHp: 0
+  BossShield: 0
+  BossSouls: 0
+  BossMaxSouls: 0
+  isStageClear: 0
+  isPaused: 0
+  isInventory: 0
+  isInteraction: 0
+  isSkip: 0
+  isShopping: 0
